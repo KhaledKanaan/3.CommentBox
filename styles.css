@@ -6,11 +6,10 @@
     font-family: 'Lato', sans-serif;
 }
 
-html, body{
-    background-color: rgba(65, 105, 225, 0.445);
+html{
+    background: rgba(65, 105, 225, 0.445);
     width: 100%;
     position: relative;
-    height: 100%;
 }
 
 
