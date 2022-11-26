@@ -1,5 +1,5 @@
 # 3.CommentBox
-Founders and Coders project no.1: Hobby Page
+Founders and Coders project no.3: Comment Box
 
 --------------------------------------------
 rev.0: 
